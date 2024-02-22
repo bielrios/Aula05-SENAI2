@@ -1,15 +1,23 @@
-Aula05 -  Calculadora Básica🚀
-Exercícios que realizei para treinar funções de matemáticas.
+# Aula05 - Calculadora Básica 🚀
 
-🔌Como fazer funcionar na sua máquina:
-Instale Python na sua máquina;
-📋Pré-requisitos do sistema:
-Sem requisitos
+Exercícios que realizei para treinar funções matemáticas.
 
-🛠️Tecnologias utilizadas:
-Apenas Python 3
+# 🔌Como fazer funcionar na sua máquina:
 
-Versões:
-Python 3.10
-Autores:
-Gabriel Rios
+- Instale Python na sua máquina;
+
+# 📋Pré-requisitos do sistema:
+
+> Sem requisitos
+
+## 🛠️Tecnologias utilizadas:
+
+> Apenas Python 3
+
+## Versões:
+
+- Python 3.10
+
+## Autores:
+
+> Gabriel Rios
